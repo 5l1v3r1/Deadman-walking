@@ -23,11 +23,11 @@ Spieler können ihren Clash Royale Account mit ihrem Discord Account verbinden, 
 
 ### Wo finde ich meinen API-KEY?
 
-<div style="float: left; padding: 5px; width: 30%;">
+<div style="float: left; padding: 5px; width: 35%">
     <h4>Step 1: Einstellungen</h4>
     <img src="img/api-token-1.jpg" alt="Step 1: Einstellungen" title="Step 1"/>
 </div>
-<div style="float: left; padding: 5px; width: 30%;">
+<div style="float: left; padding: 5px; width: 35%">
     <h4>Step 2: API-TOKEN kopieren</h4>
     <img src="img/api-token-2.jpg" alt="Step 2: Kopieren" title="Step 2"/>
 </div>
